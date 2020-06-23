@@ -102,7 +102,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 14,
+   "execution_count": 4,
    "metadata": {},
    "outputs": [
     {
@@ -135,7 +135,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 17,
+   "execution_count": 5,
    "metadata": {},
    "outputs": [],
    "source": [
